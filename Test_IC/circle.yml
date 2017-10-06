@@ -7,7 +7,7 @@
 
 general:
     artifacts:
-        - C:\Users\TAE\Desktop\training\Test_IC\app\build\outputs\apk
+        - /Users/TAE/Desktop/training/Test_IC/app/build/outputs/apk
 
 machine:
     environment:
